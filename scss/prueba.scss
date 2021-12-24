@@ -1,0 +1,17 @@
+@import "menu";
+
+*{
+    text-align: center;
+}
+body{
+    background-color: rgb(105, 175, 0);
+    
+}
+
+$colorp: rgb(115, 184, 47);
+$fuente: "Franklin Gothic Medium";
+
+h1{
+    background-color: $colorp;
+    font-family: $fuente;
+}

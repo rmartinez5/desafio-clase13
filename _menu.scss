@@ -1,0 +1,25 @@
+nav{
+    background-color: rgb(180, 17, 17);
+    text-align: center;
+    .item{
+        color: black;
+        font-weight: bold;
+    }
+    display: flex;
+    justify-content: space-around;
+    a{
+        font-size: larger;
+        text-decoration: none;
+        &:hover{
+            background-color: white;
+            color: deeppink;
+        }
+    }
+}
+
+section{
+    h3{
+        color: white;
+        font-size: 30px;
+    }
+}

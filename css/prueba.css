@@ -1,0 +1,28 @@
+nav {
+  background-color: #b41111;
+  text-align: center;
+  display: flex;
+  justify-content: space-around; }
+  nav .item {
+    color: black;
+    font-weight: bold; }
+  nav a {
+    font-size: larger;
+    text-decoration: none; }
+    nav a:hover {
+      background-color: white;
+      color: deeppink; }
+
+section h3 {
+  color: white;
+  font-size: 30px; }
+
+* {
+  text-align: center; }
+
+body {
+  background-color: #69af00; }
+
+h1 {
+  background-color: #73b82f;
+  font-family: "Franklin Gothic Medium"; }
